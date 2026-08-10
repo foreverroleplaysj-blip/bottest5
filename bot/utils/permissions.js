@@ -16,6 +16,8 @@ const MANAGEMENT_COMMANDS = new Set([
   'set-money',
   'setjob',
   'setrank',
+  'setgang',
+  'setganglevel',
   'ban',
   'unban',
   'kick',

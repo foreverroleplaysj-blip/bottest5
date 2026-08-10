@@ -11,6 +11,8 @@ const ALLOWED_COMMAND_TYPES = new Set([
   'set_money',
   'set_job',
   'set_rank',
+  'set_gang',
+  'set_gang_level',
   'ban',
   'unban',
   'kick',
